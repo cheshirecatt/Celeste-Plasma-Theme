@@ -11,3 +11,6 @@ https://ko-fi.com/hanabicat
 
 ### Based on Chrome OS by vinceliuice:
 https://github.com/vinceliuice/ChromeOS-kde
+
+## Art by Kuvshinov Ilya
+https://www.artstation.com/kuvshinov_ilya
