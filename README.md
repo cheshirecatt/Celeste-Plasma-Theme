@@ -9,6 +9,8 @@ https://paypal.me/HanabiCatt
 
 https://ko-fi.com/hanabicat
 
+## Special Thanks
+
 ### Based on Chrome OS by vinceliuice:
 https://github.com/vinceliuice/ChromeOS-kde
 
