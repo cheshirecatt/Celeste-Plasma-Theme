@@ -8,3 +8,6 @@ Liri un tema inspirado en Material Design y Liri OS
 https://paypal.me/HanabiCatt
 
 https://ko-fi.com/hanabicat
+
+### Based on Chrome OS by vinceliuice:
+https://github.com/vinceliuice/ChromeOS-kde
