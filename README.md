@@ -1,7 +1,7 @@
 # Celeste-Plasma-Theme
 Celeste un tema inspirado en Material Design y Liri OS
 
-![Celeste Theme](https://github.com/cheshirecatt/Liri-Plasma-Theme/blob/master/Liri.png)
+![Celeste Theme](https://github.com/cheshirecatt/Liri-Plasma-Theme/blob/master/Celeste.png)
 
 ### Please support me :)
 
